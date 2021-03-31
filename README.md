@@ -1,6 +1,8 @@
-# WorkAdventure Map Starter Kit
+# virtual AfRA
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+based on the hackerspace Abteilung-für-Redundanz-Abteilung (Department-of-Redundancy-Department) in East Berlin
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+more info: https://afra-berlin.de/dokuwiki/doku.php?id=projekte:vafra
 
+---
+<sub>based on the WorkAdventure Map Starter Kit</sub>
