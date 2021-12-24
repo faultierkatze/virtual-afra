@@ -342,7 +342,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/dudle.inf.tu-dresden.de\/anonymous\/TKzTYaQePQ\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -406,19 +406,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }, 
                 {
                  "id":1,
                  "properties":[
@@ -1221,6 +1218,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1232,11 +1235,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
                         }]
                 }, 
                 {
@@ -1267,19 +1265,16 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }, 
                 {
                  "id":17,
                  "properties":[
@@ -1794,19 +1789,15 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -1921,19 +1912,16 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }, 
                 {
                  "id":33,
                  "properties":[
@@ -2070,19 +2058,16 @@
          "imagewidth":448,
          "margin":0,
          "name":"afra-extra",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0"
-                        }]
-                }, 
                 {
                  "id":7,
                  "properties":[
@@ -2165,19 +2150,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -2188,19 +2169,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
